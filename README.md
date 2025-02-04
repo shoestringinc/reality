@@ -175,7 +175,9 @@ Would you like a **hybrid approach** that starts with scripting but gradually ad
 
 #### <a id="q3">**_Question 3_**</a>
 
-So basically what you are saying is that NLP libs cannot do sentiment analysis. Let us take that on face value. So, I have and LLM as a library and I get my sentiment analysis done by it and now based on thatI have configured an external rule which calls the right service.
+So basically what you are saying is that NLP libs cannot do sentiment analysis. Let us take that on face value. So, I have an LLM as a library and I get my sentiment analysis done by it and now based on thatI have configured an external rule which calls the right service.
+
+[Back to table of contents](#toc1)
 
 #### **_ChatGPT Answer_** 
 
@@ -240,6 +242,8 @@ Would you like to explore a **hybrid approach**, where you start with rule-based
 
 Any unforeseen new kind of bug or problem in my product will require a human intervention because that is unique. Once we have solved it and put into our FAQ database, subsequently LLM  can give the right solution to the customer support.
 
+[Back to table of contents](#toc1)
+
 #### **_ChatGPT Answer_** 
 
 You're absolutely right! Any truly **novel bug or issue** will require **human intervention** initially. But once it's been diagnosed and a fix is available, **LLMs can be used to automate future responses**.  
@@ -290,6 +294,8 @@ How can LLM even figure out unsolved issues when they have not been even trained
 My problem is there is no autonomy if LLM hasn't seen it. A human can crack through it and that is what my friend did with solving a known problem in a relatively new language i.e. Zig.
 I believe, there is nothing called independent thinking as far as AI goes.
 And that brings me to the conclusion that concept of using LLM as programmatic API more as an assistant rather than independent agent.
+
+[Back to table of contents](#toc1)
 
 #### **_ChatGPT Answer_** 
 
