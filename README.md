@@ -43,8 +43,6 @@ Would you like a framework for designing **LLM-based assistants** instead of AI 
 
 Can you tell me exactly what an AI agent is? Why can't we use scripting to orchestrate few services
 
-[Back to table of contents](#toc1)
-
 #### **_ChatGPT Answer_** 
 
 ### **What Exactly Is an AI Agent?**  
