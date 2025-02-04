@@ -293,7 +293,7 @@ Would you like an architecture breakdown of how to implement this FAQ-driven LLM
 How can LLM even figure out unsolved issues when they have not been even trained on it (i.e. never seen that kind of data). I will give you an example. A friend of mine was creating a toy software project using Zig language. When he tried doing using LLM, it was ceaselessly faltering. But when he tried doing it with Golang, it was perfect because there are tons of Golang projects similar to it.
 My problem is there is no autonomy if LLM hasn't seen it. A human can crack through it and that is what my friend did with solving a known problem in a relatively new language i.e. Zig.
 I believe, there is nothing called independent thinking as far as AI goes.
-And that brings me to the conclusion that concept of using LLM as programmatic API more as an assistant rather than independent agent.
+And that brings me to the conclusion the concept of using LLM as programmatic API more as an assistant rather than independent agent.
 
 [Back to table of contents](#toc1)
 
