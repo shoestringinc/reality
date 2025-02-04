@@ -36,7 +36,7 @@ Would you like a framework for designing **LLM-based assistants** instead of AI 
 2. [Question 2](#q2)
 3. [Question 3](#q3)
 4. [Question 4](#q4)
-5. [Question 5](#q5)
+5. [Finale](#q5)
 
 #### <a id="q1">**_Question 1_**</a>
 
