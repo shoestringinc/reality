@@ -29,6 +29,7 @@ Would you like a framework for designing **LLM-based assistants** instead of AI 
 
 ---
 
+<a id="toc1"></a>
 ## Conversations with ChatGPT
 
 ### Table of Contents
@@ -41,6 +42,8 @@ Would you like a framework for designing **LLM-based assistants** instead of AI 
 #### <a id="q1">**_Question 1_**</a>
 
 Can you tell me exactly what an AI agent is? Why can't we use scripting to orchestrate few services
+
+[Back to table of contents](#toc1)
 
 #### **_ChatGPT Answer_** 
 
@@ -116,6 +119,8 @@ Would you like a **real-world AI agent architecture** example, or do you have a 
 #### <a id="q2">**_Question 2_**</a>
 
 IN your first example, why can't I use simple NLP libs to gauge sentiment and do the needful.
+
+[Back to table of contents](#toc1)
 
 #### **_ChatGPT Answer_** 
 
