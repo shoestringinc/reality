@@ -9,11 +9,11 @@ The solution made me realize that AI (LLM) cannot think independently which is t
 
 LLMs are one of the greatest gift to mankind but promoting Agents on top of it  might lead to the next AI winter sooner than we expect as investors will turn away when moon is not reached. That is because **autonomy** is the cornerstone of Agents. Without autonomy, you can use LLMs as an API to make AI assistants.
 
-ChatGPT concludes that **_Autonomy is a false promise. The way forward is AI-Assistant and not agents_**
-
-Before I could come to that conclusion, I decided to get educated and what better than ChatGPT.
+I decided to get educated on agents little deeply and what better than ChatGPT.
 
 So, here I lay down the entire conversation with ChatGPT spanning over 5 rounds of questions and corresponding answers.
+
+ChatGPT concludes that **_Autonomy is a false promise. The way forward is AI-Assistant and not agents_**
 
 > Before that, I want to share the highlights of the final answer of ChatGPT.
 
