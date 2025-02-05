@@ -349,5 +349,5 @@ Would you like a framework for designing **LLM-based assistants** instead of AI 
 ---
 ---
 
-So ChatGPT rightly concludes that **_Assistants rather than Agents are the main things as it does not rely one the false promise of autonomy_**.
+So ChatGPT rightly concludes that **_Assistants rather than Agents are the main things as it does not rely on the false promise of autonomy_**.
 
